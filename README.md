@@ -1,4 +1,4 @@
-Example PHP project
+Example Travis CI PHP project
 ===================
 
 The purpose of this repository is to show how to use Travis CI to do
@@ -12,3 +12,10 @@ In order to run this project just fork it on github.com and then [enable](http:/
 your fork on your [travis-ci profile](http://travis-ci.org/profile). Every push will then trigger a new build on Travis CI.
 
 (Don't forget to update the badge url in the README to point to your own travis project.)
+
+### Other Notes
+* [Github Repo of this Travis CI example project](https://github.com/travis-ci-examples/php)
+* [Agile in Practive: Continuous Integration](https://www.youtube.com/watch?v=RcTFpNlkiUs)
+* [Continuous Integration. CircleCI vs Travis CI vs Jenkins](https://hackernoon.com/continuous-integration-circleci-vs-travis-ci-vs-jenkins-41a1c2bd95f5)
+* [Apps, Clients and Tools for Travis CI](https://docs.travis-ci.com/user/apps/)
+* [My Tutorial: Travis CI Using Github in 15 Minutes](http://sarn.phamornsuwana.com/travis-ci-using-g…ub-in-15-minutes/)
