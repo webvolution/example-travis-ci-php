@@ -14,8 +14,8 @@ your fork on your [travis-ci profile](http://travis-ci.org/profile). Every push 
 (Don't forget to update the badge url in the README to point to your own travis project.)
 
 ### Other Notes
-* [Github Repo of this Travis CI example project](https://github.com/travis-ci-examples/php)
-* [Agile in Practive: Continuous Integration](https://www.youtube.com/watch?v=RcTFpNlkiUs)
+* [Agile in Practice: Continuous Integration](https://www.youtube.com/watch?v=RcTFpNlkiUs)
 * [Continuous Integration. CircleCI vs Travis CI vs Jenkins](https://hackernoon.com/continuous-integration-circleci-vs-travis-ci-vs-jenkins-41a1c2bd95f5)
 * [Apps, Clients and Tools for Travis CI](https://docs.travis-ci.com/user/apps/)
+* [Original Github Repo of this Travis CI example project](https://github.com/travis-ci-examples/php)
 * [My Tutorial: Travis CI Using Github in 15 Minutes](http://sarn.phamornsuwana.com/travis-ci-using-g…ub-in-15-minutes/)
